@@ -17,10 +17,10 @@ let package = Package(
         .binaryTarget(
             name: "Softphone",
             url: "https://dist.acrobits.net/saas-swift-package-local/debug/Softphone.xcframework-245483.zip",
-            checksum: "80bebf84a0ad887ad648c3f6120a24f6ec6123d85cde985500ec38409964cba8"),
+            checksum: "e02890cee9c2264310913178f9b9d61604bf18f8e3e26b6ec60276910036f3e2"),
         .binaryTarget(
             name: "Softphone_Swift",
             url: "https://dist.acrobits.net/saas-swift-package-local/debug/Softphone_Swift.xcframework-245483.zip",
-            checksum: "197b20d413735a72d25e7bf3e0487ce84d9e2f27f74dc57c3a61b902775d614e")
+            checksum: "31e98f4ebeb81ac3c46f8447a6a5a9b1b161d76255c060702e6700ce0e70cc12")
     ]
 )
